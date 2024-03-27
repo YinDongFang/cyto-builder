@@ -1,6 +1,6 @@
 {
   "name": "cyto-builder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -27,6 +27,7 @@
     "lazy-store-loader": "^2.0.3",
     "qs": "^6.12.0",
     "react": "^18.2.0",
-    "uuid": "^9.0.1"
+    "uuid": "^9.0.1",
+    "@yindongfang/keybinding": "^1.0.0"
   }
 }
